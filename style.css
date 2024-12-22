@@ -15,11 +15,11 @@ html {
     height: 160px;
     z-index: 1;
     overflow: visible;
-    background: url('images/loading\ screen.gif') no-repeat center center;
+    background: url('screen.gif') no-repeat center center;
 }
 #content{
     display: none;
-    background-image: url("images/bg.jpg");
+    background-image: url("bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
